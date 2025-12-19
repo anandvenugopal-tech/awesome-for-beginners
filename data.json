@@ -2117,6 +2117,14 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+            "name": "Python Mini Projects",
+            "link": "https://github.com/Python-World/python-mini-projects",
+            "label": "good first issue",
+            "technologies": ["Python"],
+            "description": "A collection of simple Python projects designed for beginners to practice and improve their Python skills."
         }
+
     ]
 }
